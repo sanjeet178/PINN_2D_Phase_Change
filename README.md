@@ -22,6 +22,7 @@ This folder contains codes of physics-informed neural network and finite volume 
 
 # Few Results
 <img width="536" height="545" alt="image" src="https://github.com/user-attachments/assets/860128a8-a28e-4c39-8499-5d3c6a53092f" />
+
 - Comparison of PINN temperature contours are made with temperature contours generated from finite volume (CFD) simulations. It can be noticed that results are in good agreement with each other.
 
 # Actual Paper
