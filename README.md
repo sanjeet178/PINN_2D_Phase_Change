@@ -2,7 +2,8 @@
 This folder contains codes of physics-informed neural network and finite volume code for phase change problems. The details regarding the implementation of the code are presented in the paper.  
 
 # PINN Architecture  
-<img width="401" height="..." src="..." />
+<img width="401" height="181" alt="image" src="https://github.com/user-attachments/assets/e0f20f3c-3b4f-472a-a45c-f5679ff76731" />
+
 
 - Skip connections are incorporated in the network architecture.  
 - The neural network takes **spatial and temporal coordinates** as input.  
